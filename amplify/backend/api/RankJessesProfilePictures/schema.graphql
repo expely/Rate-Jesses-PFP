@@ -1,0 +1,6 @@
+type HotModel @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Points: String!
+  Url: String!
+}
+ 

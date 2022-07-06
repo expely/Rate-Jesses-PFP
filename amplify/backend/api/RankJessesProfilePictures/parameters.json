@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "RankJessesProfilePictures",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-06-26T22:26:25.171Z"
+}

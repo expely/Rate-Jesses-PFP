@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "RankJessesProfilePictures",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/tmp/amplify-b6031822-46f4-464e-bcdc-94b618bb42f4/amplify/backend/api/RankJessesProfilePictures/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "keyDescription": "api key description",
+      "expirationTime": 30
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AWS_IAM"
+      }
+    ],
+    "conflictResolution": {
+      "defaultResolutionStrategy": {
+        "type": "AUTOMERGE"
+      }
+    }
+  }
+}

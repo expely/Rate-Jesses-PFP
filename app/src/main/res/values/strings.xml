@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rate Jesses Profiles</string>
+    <string name="facebook_app_id">2165026406996514</string>
+    <string name="fb_login_protocol_scheme">fb2165026406996514</string>
+    <string name="facebook_client_token">b3c19b1f3df882c8d6fa3dd04dd003f2</string>
+    <string name="title_activity_rankings">Rankings</string>
+    <string name="tab_text_1">Rank</string>
+    <string name="tab_text_2">Highest Ranking</string>
+</resources>
